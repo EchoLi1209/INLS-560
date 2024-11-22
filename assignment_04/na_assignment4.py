@@ -14,5 +14,5 @@ Sorry, you do not meet the requirements for the Skating Coach Position,
     
 You need at least:
 - {MIN_YEARS_SKATING} years of skating experience
-- {MIN_YEARS_TOP_AWARD} years as a skating coach
+- {MIN_YEARS_COACHING} years as a skating coach
 ''')
